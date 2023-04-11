@@ -6,7 +6,7 @@ export default function ContactUs() {
     return (
         <>
       {/* <!-- Contact Us --> */}
-      <Image src={contactus_bg} alt="Contact Us Background" className="absolute z-10"/>
+      <Image src={contactus_bg} alt="Contact Us" className="absolute z-10"/>
       <section className="mt-8 bg-slate-700 body-font ">
         <div className="flex flex-col items-center justify-around md:flex-row md:space-x-6">
           <div className="flex-col px-6 py-16">
